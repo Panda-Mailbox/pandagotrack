@@ -1,9 +1,0 @@
-{
-  "name": "pandagotrack",
-  "version": "1.0.0",
-  "type": "module",
-  "dependencies": {
-    "node-fetch": "^2.6.9",
-    "jsdom": "^24.0.0"
-  }
-}
